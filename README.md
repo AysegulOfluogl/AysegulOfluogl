@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aysegul
-- 👀 I’m interested in ...Bilgisayar Programlamayla
+- 👀 I’m interested in computer programming
 - 🌱 I’m currently learning Belli Bir Kodlama Dilleri
 - 📫  Bana  https://www.instagram.com/aysegul.ofluoglu burdan ulaşabilirsiniz. 
 - 
