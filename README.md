@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aysegul
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning Belli Bir Kodlama Dilleri
-- 📫  Bana  https://www.instagram.com/aysegul.ofluoglu burdan ulaşabilirsiniz. 
+- 🌱 I’m currently learning a certain coding languages
+- 📫 You can reach me here    https://www.instagram.com/aysegul.ofluoglu  
 - 
 
 <!---
